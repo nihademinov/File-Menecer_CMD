@@ -24,3 +24,6 @@ Producted by Eminov Nihad.
 Project for Step IT Academy.
 C++ OOP.
 
+
+
+![File Menecer View](https://user-images.githubusercontent.com/119867142/229292414-62bb9ca5-3cce-4c28-84a0-f11a7700535e.png)
